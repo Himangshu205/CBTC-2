@@ -1,2 +1,2 @@
 # Portfolio Website(NO Functionality)
-This is my portfolio project which is going to be the second and last project that i am gonna do for my internship at cipherbyte technologies
+This is project where I use very basic tech to make a very beginner friendly portfolio website
