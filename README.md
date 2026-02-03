@@ -3,5 +3,5 @@
 This is project where I use very basic tech to make a very beginner friendly portfolio website.
 ---
 ## Technologies used:-
-HTML
-CSS
+- HTML
+- CSS
